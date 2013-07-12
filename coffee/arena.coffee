@@ -1,4 +1,6 @@
-class Arena
+window.App ||= {}
+
+class App.Arena
   constructor: () ->
     @width = 10
     @height = 10

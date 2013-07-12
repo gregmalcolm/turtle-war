@@ -24,3 +24,14 @@ them a modicum of AI?
     "Evade!"
 
 My mission here is to prototype and explore...
+
+
+## Dependencies
+
+Coffeescript (I have it installed via npm)
+
+## Running (for mac)
+
+cake build
+python -m SimpleHTTPServer
+open http://localhost:8000/game.html
